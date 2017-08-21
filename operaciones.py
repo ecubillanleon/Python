@@ -1,4 +1,6 @@
 #Autor: Enmanuel Cubillan
+#Practica de operaciones matematicas en Python
+
 a = 26
 b = 11.5
 c = 5
