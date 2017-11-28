@@ -55,4 +55,3 @@ print 'Sumando listas:',lista
 
 # multiplicar una lista
 print 'Multiplicando la lista:',mi_lista * 3
-
