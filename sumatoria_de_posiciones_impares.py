@@ -16,4 +16,3 @@ for i in range(len(arreglo)):
         suma = suma + arreglo[i]
 
 print '\nLa suma de las posiciones impares es: %s' %(suma)
- 
