@@ -29,3 +29,5 @@ print(texto.read())
 # Ruta absoluta
 texto = open("documentos/docs/prueba.txt")
 print(texto.read())
+
+
